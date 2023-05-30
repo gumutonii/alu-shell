@@ -1,0 +1,2 @@
+#!/bin/bish
+ls -s /bin/ls __ls__
